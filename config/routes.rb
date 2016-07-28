@@ -9,7 +9,7 @@ Rails.application.routes.draw do
 
   get 'landing/y'
 
- root 'landing#z'
+ root 'landing#index'
  
 
   # The priority is based upon order of creation: first created -> highest priority.
